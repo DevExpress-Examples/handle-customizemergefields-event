@@ -7,5 +7,6 @@ MergeFieldNames object contains name of every field that is going to be displaye
 ## Files to Look At
 [Default.aspx](./CS/RichEditCustomizeMergeFields/Default.aspx)
 ## Documentation
-[ASPxRichEdit] (https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxRichEdit.ASPxRichEdit)
+[ASPxRichEdit](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxRichEdit.ASPxRichEdit)
+
 [ASPxRichEdit.CustomizeMergeFields](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxRichEdit.ASPxRichEdit.CustomizeMergeFields?p=netframework)
