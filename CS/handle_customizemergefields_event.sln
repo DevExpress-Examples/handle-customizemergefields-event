@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "handle_customizemergefields_event", "handle-customizemergefields-event\handle_customizemergefields_event.csproj", "{3505E86B-025F-42C6-8FC2-3C1FEE79965F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3505E86B-025F-42C6-8FC2-3C1FEE79965F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3505E86B-025F-42C6-8FC2-3C1FEE79965F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3505E86B-025F-42C6-8FC2-3C1FEE79965F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3505E86B-025F-42C6-8FC2-3C1FEE79965F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F379945A-4031-43B7-B5A0-312CE7E973C9}
+	EndGlobalSection
+EndGlobal
