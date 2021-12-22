@@ -1,5 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="handle_customizemergefields_event.Default" %>
 
+<%@ Register Assembly="DevExpress.Web.ASPxRichEdit.v21.2, Version=21.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web.ASPxRichEdit" TagPrefix="dx" %>
+
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -15,6 +17,8 @@
         </dx:ASPxRichEdit>
         <asp:AccessDataSource ID="AccessDataSource1" runat="server" DataFile="~/App_Data/nwind.mdb"
             SelectCommand="SELECT [ProductID], [ProductName], [CategoryID] FROM [Products]"></asp:AccessDataSource>
+
+       
     </form>
 </body>
 </html>

@@ -1,6 +1,6 @@
 using System;
 
-namespace handle-customizemergefields-event {
+namespace handle_customizemergefields_event {
     public class Global_asax : System.Web.HttpApplication {
         void Application_Start(object sender, EventArgs e) {
             DevExpress.Web.ASPxWebControl.CallbackError += new EventHandler(Application_Error);
